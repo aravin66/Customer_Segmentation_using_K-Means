@@ -34,3 +34,35 @@ Mall Customers Dataset (CSV file) with the following features:
 
 ## 🔄 Workflow
 
+
+---
+
+## ⚙️ Implementation Steps
+1. Load the dataset using Pandas  
+2. Perform data cleaning and preprocessing  
+3. Conduct Exploratory Data Analysis using graphs and statistics  
+4. Select relevant features (Income & Spending Score)  
+5. Apply Elbow Method to determine optimal clusters  
+6. Train K-Means model  
+7. Plot results and visualize clusters  
+8. Interpret segmentation and generate insights  
+
+---
+
+## 📊 Results
+- Optimal number of clusters identified using Elbow Method  
+- Customer groups clearly formed  
+- Segments classified as premium customers, cautious buyers, and potential customers  
+- Visualization using scatter plots and centroids  
+
+---
+
+## ✅ Conclusion
+This project demonstrates how machine learning can be used to segment customers effectively. K-Means clustering successfully grouped customers based on purchasing patterns, enabling organizations to improve marketing strategies and business decision-making.
+
+---
+
+## 📁 Project Structure
+
+
+
