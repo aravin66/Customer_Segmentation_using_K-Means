@@ -62,6 +62,25 @@ This project demonstrates how machine learning can be used to segment customers 
 
 
 
+---
+
+## ▶️ How to Run
+
+### Step 1: Install Libraries
+
+
+### Step 2: Run Notebook
+
+
+---
+
+## 👤 Author
+Aravind Ajay  
+Customer Segmentation Project
+
+
+
+
 
 ---
 
