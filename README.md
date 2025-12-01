@@ -60,6 +60,9 @@ Mall Customers Dataset (CSV file) with the following features:
 ## ✅ Conclusion
 This project demonstrates how machine learning can be used to segment customers effectively. K-Means clustering successfully grouped customers based on purchasing patterns, enabling organizations to improve marketing strategies and business decision-making.
 
+
+
+
 ---
 
 ## 📁 Project Structure
